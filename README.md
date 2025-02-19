@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanzeel 👋</h1>  
+<h1 align="center">Hi, I'm Tanzeel Hameedi 👋</h1>  
 <p align="center">I am a Frontend Developer | UI/UX Enthusiast</p>  
 
 ## 📫 Connect with me:
