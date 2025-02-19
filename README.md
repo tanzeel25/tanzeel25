@@ -1,6 +1,16 @@
 <h1 align="center">Hi, I'm Tanzeel Hameedi 👋</h1>  
 <p align="center">I am a Frontend Developer | UI/UX Enthusiast</p>  
 
+### 👨‍💻 About Me:
+- 🔭 I’m currently working as a **Frontend Developer**  
+- 🌱 Pursuing a **BS in Software Engineering (Graduating in 2025)**  
+- 🚀 Passionate about **Web Development & UI/UX**  
+- 🛠️ Currently focusing on **JavaScript, React.js, and MEAN Stack Development**  
+- 💡 Open to collaborating on **Web Development projects**  
+- 🎯 Future Goal: To become a **Full-Stack MEAN Developer**  
+
+---
+
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanzeelhameedi23/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tanzeelhameedi663/)
