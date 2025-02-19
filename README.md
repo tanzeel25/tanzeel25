@@ -28,6 +28,6 @@
 
 ## 📊 GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GitHub username&show_icons=true&theme=radical" width="400px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub username&layout=compact&theme=radical" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" width="400px"/>
 </p>
