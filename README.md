@@ -2,8 +2,8 @@
 <p align="center">I am a Frontend Developer | UI/UX Enthusiast</p>  
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working as a **Frontend Developer**  
-- 🌱 Pursuing a **BS in Software Engineering (Graduating in 2025)**  
+- 🔭 I have previously worked as a Frontend Developer**  
+- 🌱 Pursuing a **BS in Software Engineering)**  
 - 🚀 Passionate about **Web Development & UI/UX**  
 - 🛠️ Currently focusing on **JavaScript, React.js, and MEAN Stack Development**  
 - 💡 Open to collaborating on **Web Development projects**  
